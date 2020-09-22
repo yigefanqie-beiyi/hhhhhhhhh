@@ -1,1 +1,4 @@
-# hhhhhhhhhjasfbfjaebjfbqaeoi
+#include<iostream>
+  using namespcae std;
+  int main()
+  
